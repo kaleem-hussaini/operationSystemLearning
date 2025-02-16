@@ -1,0 +1,32 @@
+=========== Command Line Interface ============
+
+***Common Commands: 
+	1.mkdir folderName--> for making a new directory (folder)
+	2.dir ---> for showing all the files of the current directory. 
+		*Current Directory (The directory on which you are present now)
+
+	3.del fileName ---> for deleting a anyfile type
+	3.1 rmdir foldername --> delete a folder if it is empty
+	3.2 rmdir /s foldername --> delete a folder along with its contents
+
+	4.cd ---> to move forward/backward. 
+		** cd nextDirectoryName/directoryPath
+		** cd .. move one step backword
+		** cd ..\.. move two step backward and so on.
+
+	5.move {Source-file/folderName} {Destination Relative/AbsolutePath}
+	6.copy {source-file/folderName} {Destination path}
+	7.ren {oldName} {newName} --> rename a folder/file
+	
+	8. .. --> points previous directory
+		. --> points current directory
+	
+	9.cls --> Clear the environment
+
+	*10.SET variableName PATH  --> assign the specified path to the variable, 
+		whenever we need we just call the variable with %variableName% 				instead of the full path.
+
+	11.*.extension --> Select all files of the specific extension.
+
+
+	
