@@ -1,0 +1,27 @@
+Environment Variables --> Those variables which points to some specific paths in your system.
+----------------------------------------------------------------------------------------------
+
+Some INBUILT variables and their paths: 
+	
+	1. %username% --> Give the current username of the system.
+
+	2. %date% --> Give the current date of the system.
+	3. %time% --> Give the current time of the system.
+
+	4. %systemroot% --> Information about system files
+
+	5. %homedrive% --> C: __Path of the homedrive(the drive in which windows has installed).
+	6. %userprofile% --> Give the path of the current active user profile.
+	7. %path% --> Give the path to executable files.
+	
+	8. %cd% --> Give the path of the current directory, where you are working.
+
+
+FORMING USER DEFINE VARIABLES:
+-------------------------------
+	
+	set variableName=path --> You can use this variable name whenever you need to access the path
+				  that is stored in it.
+
+CHECKING VARIABLE PATH:  
+---------------------------   ==> You can check the path stored in a variable using: echo %variableName%

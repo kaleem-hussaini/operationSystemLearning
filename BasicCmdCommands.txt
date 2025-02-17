@@ -1,6 +1,9 @@
 =========== Command Line Interface ============
 
 ***Common Commands: 
+
+	:: To comment lines while scripting
+	
 	1.mkdir folderName--> for making a new directory (folder)
 	2.dir ---> for showing all the files of the current directory. 
 		*Current Directory (The directory on which you are present now)
