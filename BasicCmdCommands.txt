@@ -30,6 +30,9 @@
 		whenever we need we just call the variable with %variableName% 				instead of the full path.
 
 	11.*.extension --> Select all files of the specific extension.
+	12. *.* --> select any type of files not folders
+	13. * --> select any folder or file of a directory
+	
 
 
 	
