@@ -25,3 +25,7 @@ FORMING USER DEFINE VARIABLES:
 
 CHECKING VARIABLE PATH:  
 ---------------------------   ==> You can check the path stored in a variable using: echo %variableName%
+
+ENVIRONMENT VARIABLES OF THE SYSTEM:
+-------------------------------------
+					=> set  --> give the variable names of all environment variables of the current system.

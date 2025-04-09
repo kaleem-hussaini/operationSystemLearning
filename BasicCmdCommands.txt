@@ -26,10 +26,13 @@
 	
 	9.cls --> Clear the environment
 
-	*10.SET variableName PATH  --> assign the specified path to the variable, 
+	*10.SET variableName=AbsolutePATH  --> assign the specified path to the variable, 
 		whenever we need we just call the variable with %variableName% 				instead of the full path.
 
 	11.*.extension --> Select all files of the specific extension.
+	12. *.* --> select any type of files not folders
+	13. * --> select any folder or file of a directory
+	
 
 
 	
